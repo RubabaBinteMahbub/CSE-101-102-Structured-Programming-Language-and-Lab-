@@ -51,7 +51,7 @@ The contents of this repository cover the following core concepts:
 <b>Compiler :</b> Use any standard C compiler (GCC, Clang, or IDEs like CodeBlocks/VS Code).
 
 <h3>🤝 Contribution</h3>
-​This is a personal learning repository. However, if you find any bugs or have a more optimized solution for an algorithm, feel free to open a Pull Request or an Issue.
+​This is a personal learning repository. However, if you find any bugs feel free to open a Pull Request or an Issue.
 
 
 # <i> <p align="center">If this helped you out, drop a ⭐!</p> </i>
