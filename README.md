@@ -52,6 +52,6 @@ The contents of this repository cover the following core concepts:
 
 <h3>🤝 Contribution</h3>
 ​This is a personal learning repository. However, if you find any bugs feel free to open a Pull Request or an Issue.
+<br>
 
-
-# <i> <p align="center">If this helped you out, drop a ⭐!</p> </i>
+ <i> <p align="center">If this helped you out, drop a ⭐!</p> </i>
