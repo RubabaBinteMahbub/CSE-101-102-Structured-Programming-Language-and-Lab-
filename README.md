@@ -33,18 +33,19 @@ The contents of this repository cover the following core concepts:
 <h3>📂 Repository Structure</h3>
 
 ├── Theory and Lab Problems/ <br>
-│   ├── Basic-IO/ <br>
-│   ├── Conditionals/  <br>
-│   ├── Switch Case/  <br>
-│   ├── Loops/  <br>
-│   ├── Array/  <br>
+│   ├── Basic-IO <br>
+│   ├── Conditionals  <br>
+│   ├── Switch Case  <br>
+│   ├── Loops  <br>
+│   ├── Array  <br>
 │   │        ├──1D Array  <br>
 │   │        ├──2D Array  <br>
 │   ├── Functions  <br>
 │   ├── String  <br>
 │   ├── Pointers  <br>
 │   ├── File Handling <br>
-│   └── Lab-Project/ <br> 
+│   ├── Lab Evalutions <br>
+│  <!-- └── Lab-Project --><br>
 └── README.md <br>
 
 <h3>🛠 Setup & Usage</h3>
