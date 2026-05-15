@@ -1,4 +1,4 @@
-<h2>🎓 CSE 101 & 102: Structured Programming Language & Lab</h2>
+<h2>🎓 CSE 101 & 102: Structured Programming Language & Structured Programming Language Lab</h2>
 
 This repository contains all academic materials, source codes, and lab reports for the CSE 101 (Theory) and CSE 102 (Lab) courses. The primary focus of this course is mastering the C Programming Language and understanding the fundamentals of structured programming.
 
