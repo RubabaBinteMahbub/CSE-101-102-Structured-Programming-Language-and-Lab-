@@ -1,0 +1,12 @@
+#include<stdio.h>
+
+int main(){
+FILE *fptr=fopen("Lotus.txt","r");
+
+if(fptr==NULL){
+		printf("Not able to open the file.\n");
+}
+
+fclose(fptr);
+return 0;
+}
