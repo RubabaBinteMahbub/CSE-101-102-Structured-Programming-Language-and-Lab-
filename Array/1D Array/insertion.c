@@ -7,7 +7,7 @@ int main()
    printf("Enter size = ");
    scanf("%d",&size);
   
-   int a[size],i;
+   int a[size+1],i;
   
    printf("Enter elements :");
    for(i=0;i<size;i++){
